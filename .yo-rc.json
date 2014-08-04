@@ -1,0 +1,10 @@
+{
+  "generator-derby": {
+    "project": "derby serialize",
+    "app": "app",
+    "coffee": false,
+    "stylus": true,
+    "jade": true,
+    "md": false
+  }
+}
